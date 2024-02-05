@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="200" alt="hellogif"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/> I'm Harshit Gupta</h1>
 <h3 align="center">A passionate frontend developer and Machine Learning Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **ML related Projects**
